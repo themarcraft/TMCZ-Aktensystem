@@ -22,4 +22,4 @@ Diese Version wird auch nach dem Schluss von "BerlinV" auf dem FiveM Server "Spa
 * Mitarbeiter Verwaltung
 ![](https://themarcraft.de/images/aktensystem/mitarbeiter.png)
 * Erste-Hilfe Schein
-![](https://themarcraft.de/images/aktensystem/erstehilfe.png)
+![](https://themarcraft.de/images/aktensystem/ehschein.png)
