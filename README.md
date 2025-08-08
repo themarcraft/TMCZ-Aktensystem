@@ -4,7 +4,7 @@ Dadurch, dass ich gerne FiveM spiele und auch MedicRP sehr gerne mag, habe ich e
 ![](https://themarcraft.de/images/aktensystem/v1.png)
 Nachdem es "GGH" nicht mehr gab zog ich auf den FiveM Server "BerlinV" als Stelvertretende Krankenhausleitung ein und entwickelte die zweite Version dieses Aktensystems, bei der man den Bereich der Verletzung in einem GUI auswählen konnte, um alles etwas realistischer zu machen, sowie eine Option, mit der die Preise für Verletzung durch eine Preisliste automatisch Berechnet werden. Auch hier war das System ein voller Erfolg.
 ![](https://themarcraft.de/images/aktensystem/verletzung.png)
-Diese Version wird auch nach dem Schluss von "BerlinV" auf dem FiveM Server "SpandauRP" weiter verwendet. Die letzten Features die hinzugefügt wurden sind eine Option zum Ausstellen von Erste-Hilfe Scheinen und einer kompletten Website über das Krankenhaus [URL='https://kh.tmcz.de']Vorschau[/URL]
+Diese Version wird auch nach dem Schluss von "BerlinV" auf dem FiveM Server "SpandauRP" weiter verwendet. Die letzten Features die hinzugefügt wurden sind eine Option zum Ausstellen von Erste-Hilfe Scheinen und einer kompletten Website über das Krankenhaus [Vorschau](https://kh.tmcz.de)
 
 ## Features
 * Login
